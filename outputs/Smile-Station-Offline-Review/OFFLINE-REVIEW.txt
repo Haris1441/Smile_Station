@@ -1,0 +1,9 @@
+Smile Station offline review package
+
+1. Install Node.js 18 or newer if it is not already installed.
+2. Open a terminal in this folder.
+3. Run: npm start
+4. Open: http://localhost:4173
+5. Owner portal: http://localhost:4173/#admin
+
+The visual assets are included locally. Google Maps directions need an internet connection when clicked.

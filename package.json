@@ -1,0 +1,14 @@
+{
+  "name": "smile-station",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smile Station public website and owner portal",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check app.js && node --check server.js && node --check offline-builder.js",
+    "offline": "node offline-builder.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
