@@ -18,8 +18,6 @@ Run `npm run offline` to create a self-contained review copy in `outputs/Smile-S
 
 **Demo owner login**
 
-- Email: `owner@smilestation.pk`
-- Password: `SmileStation2026!`
 
 ## Included functionality
 
